@@ -1,0 +1,4 @@
+EnduranceStaminaRuggedness
+==========================
+
+ruggedness
